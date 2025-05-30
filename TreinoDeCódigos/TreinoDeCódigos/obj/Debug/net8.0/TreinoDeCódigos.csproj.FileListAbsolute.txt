@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\TreinoDeCódigos\TreinoDeCódigos\bin\Debug\net8.0\TreinoDeCódigos.exe
+C:\Users\pedro\source\repos\TreinoDeCódigos\TreinoDeCódigos\bin\Debug\net8.0\TreinoDeCódigos.deps.json
+C:\Users\pedro\source\repos\TreinoDeCódigos\TreinoDeCódigos\bin\Debug\net8.0\TreinoDeCódigos.runtimeconfig.json
+C:\Users\pedro\source\repos\TreinoDeCódigos\TreinoDeCódigos\bin\Debug\net8.0\TreinoDeCódigos.dll
+C:\Users\pedro\source\repos\TreinoDeCódigos\TreinoDeCódigos\bin\Debug\net8.0\TreinoDeCódigos.pdb
+C:\Users\pedro\source\repos\TreinoDeCódigos\TreinoDeCódigos\obj\Debug\net8.0\TreinoDeCódigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\TreinoDeCódigos\TreinoDeCódigos\obj\Debug\net8.0\TreinoDeCódigos.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\TreinoDeCódigos\TreinoDeCódigos\obj\Debug\net8.0\TreinoDeCódigos.AssemblyInfo.cs
+C:\Users\pedro\source\repos\TreinoDeCódigos\TreinoDeCódigos\obj\Debug\net8.0\TreinoDeCódigos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\TreinoDeCódigos\TreinoDeCódigos\obj\Debug\net8.0\TreinoDeCódigos.dll
+C:\Users\pedro\source\repos\TreinoDeCódigos\TreinoDeCódigos\obj\Debug\net8.0\refint\TreinoDeCódigos.dll
+C:\Users\pedro\source\repos\TreinoDeCódigos\TreinoDeCódigos\obj\Debug\net8.0\TreinoDeCódigos.pdb
+C:\Users\pedro\source\repos\TreinoDeCódigos\TreinoDeCódigos\obj\Debug\net8.0\TreinoDeCódigos.genruntimeconfig.cache
+C:\Users\pedro\source\repos\TreinoDeCódigos\TreinoDeCódigos\obj\Debug\net8.0\ref\TreinoDeCódigos.dll

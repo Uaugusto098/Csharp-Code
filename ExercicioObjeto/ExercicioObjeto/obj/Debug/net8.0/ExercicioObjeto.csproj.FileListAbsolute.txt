@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\ExercicioObjeto\ExercicioObjeto\bin\Debug\net8.0\ExercicioObjeto.exe
+C:\Users\pedro\source\repos\ExercicioObjeto\ExercicioObjeto\bin\Debug\net8.0\ExercicioObjeto.deps.json
+C:\Users\pedro\source\repos\ExercicioObjeto\ExercicioObjeto\bin\Debug\net8.0\ExercicioObjeto.runtimeconfig.json
+C:\Users\pedro\source\repos\ExercicioObjeto\ExercicioObjeto\bin\Debug\net8.0\ExercicioObjeto.dll
+C:\Users\pedro\source\repos\ExercicioObjeto\ExercicioObjeto\bin\Debug\net8.0\ExercicioObjeto.pdb
+C:\Users\pedro\source\repos\ExercicioObjeto\ExercicioObjeto\obj\Debug\net8.0\ExercicioObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ExercicioObjeto\ExercicioObjeto\obj\Debug\net8.0\ExercicioObjeto.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ExercicioObjeto\ExercicioObjeto\obj\Debug\net8.0\ExercicioObjeto.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ExercicioObjeto\ExercicioObjeto\obj\Debug\net8.0\ExercicioObjeto.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ExercicioObjeto\ExercicioObjeto\obj\Debug\net8.0\ExercicioObjeto.dll
+C:\Users\pedro\source\repos\ExercicioObjeto\ExercicioObjeto\obj\Debug\net8.0\refint\ExercicioObjeto.dll
+C:\Users\pedro\source\repos\ExercicioObjeto\ExercicioObjeto\obj\Debug\net8.0\ExercicioObjeto.pdb
+C:\Users\pedro\source\repos\ExercicioObjeto\ExercicioObjeto\obj\Debug\net8.0\ExercicioObjeto.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ExercicioObjeto\ExercicioObjeto\obj\Debug\net8.0\ref\ExercicioObjeto.dll

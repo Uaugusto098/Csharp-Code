@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\source\\repos\\ConversorDeMoedas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40A68C2C-2DA3-4CFB-AD18-C37154C60EF4}|ConversorDeMoedas\\ConversorDeMoedas.csproj|c:\\users\\pedro\\source\\repos\\conversordemoedas\\conversordemoedas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A68C2C-2DA3-4CFB-AD18-C37154C60EF4}|ConversorDeMoedas\\ConversorDeMoedas.csproj|solutionrelative:conversordemoedas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 140,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\ConversorDeMoedas\\ConversorDeMoedas\\Program.cs",
+              "RelativeDocumentMoniker": "ConversorDeMoedas\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\ConversorDeMoedas\\ConversorDeMoedas\\Program.cs",
+              "RelativeToolTip": "ConversorDeMoedas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:07:10.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
